@@ -25,13 +25,27 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+**Favorite features**
+
+- Iphone's library: 
+The ability to search text in our library's photo.
+"Love" a photo and it will automatically come to a "favorite" folder.
+
+- Messenger: 
+The ability to sneak a peek into the message without marking "Read" by holding the conversation.
+Incorporate Meta AI into each conversation whenever user text @Meta
+
+- Gmail app:
+A tab "Chat" appeared when that account has a new Google Chat message, else doesn't have that tab.
+The ability to automatically mark some mail as spam.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+I only have trouble with figuring out the buttons within Xcode. When I knew which is where, everything went smoothly.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Duyen Dang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
