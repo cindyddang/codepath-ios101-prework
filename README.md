@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Walkthrough video](https://github.com/cindyddang/codepath-ios101-prework/blob/main/Walkthrough_thumbnail.png)](https://github.com/cindyddang/codepath-ios101-prework/blob/main/walkthrough.mov)
 
 ## App Brainstorming (Step 4)
 
