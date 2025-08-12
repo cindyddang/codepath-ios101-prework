@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[![Walkthrough video](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/Walkthrough_thumbnail.png)](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/walkthrough.mov)
+[![Walkthrough video](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/Walkthrough_thumbnail.png)](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/walkthrough.mp4)
 
 ## App Brainstorming (Step 4)
 
