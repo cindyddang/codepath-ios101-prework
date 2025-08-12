@@ -15,7 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[![Walkthrough video](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/Walkthrough_thumbnail.png)](https://raw.github.com/cindyddang/codepath-ios101-prework/blob/main/walkthrough.mp4)
+<div>
+    <a href="https://www.loom.com/share/9bab4d22d2fa49c59714d80d8657d528">
+    </a>
+    <a href="https://www.loom.com/share/9bab4d22d2fa49c59714d80d8657d528">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9bab4d22d2fa49c59714d80d8657d528-82593ee1356325c5-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
